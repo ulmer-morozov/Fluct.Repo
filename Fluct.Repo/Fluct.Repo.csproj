@@ -82,7 +82,6 @@
     <Compile Include="IHaveId.cs" />
     <Compile Include="IReadRepository.cs" />
     <Compile Include="IRepository.cs" />
-    <Compile Include="Item.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="MemoryRepository.cs" />
     <Compile Include="ExtendIReadRepository.cs" />
